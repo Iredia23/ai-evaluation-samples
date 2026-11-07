@@ -1,4 +1,4 @@
-# Evaluation 01: [short title]
+# Evaluation [number]: [short title]
 
 **Area:** [e.g. Networking] · **Date:** [YYYY-MM-DD]
 **Response A:** [tool and model] · **Response B:** [tool and model]
