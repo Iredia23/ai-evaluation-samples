@@ -20,6 +20,7 @@ Every evaluation follows [TEMPLATE.md](TEMPLATE.md). The scores and explanations
 | # | Area | Question | Preferred | Main finding |
 | --- | --- | --- | --- | --- |
 | [01](evaluations/01-subnetting.md) | Networking | Subnetting a /27 address | Tie | Both fully correct; A is clearer for a beginner, B shows more of its working |
+| [02](evaluations/02-settimeout-loop.md) | JavaScript | A setTimeout loop with var | A | Both explain the bug, but B's "ES5" fix uses an arrow function that older environments can't run |
 
 ## Contact
 
